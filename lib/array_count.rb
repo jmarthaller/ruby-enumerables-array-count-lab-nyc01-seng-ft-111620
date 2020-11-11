@@ -59,7 +59,8 @@ require 'pry'
 
 
 
-# def   
+def count_strings(data)
+end
 
 
 
