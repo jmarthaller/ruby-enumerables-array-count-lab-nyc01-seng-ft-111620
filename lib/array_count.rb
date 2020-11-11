@@ -60,9 +60,7 @@ require 'pry'
 
 
 def count_strings(data)
-  data.count do |ele| 
-    ele.is_a?(String)
-  end
+  data.count { |ele| ele.is_a?(String) }
 end
 
 
