@@ -72,7 +72,7 @@ end
 
 
 
-
+puts count_strings
 
 
 
